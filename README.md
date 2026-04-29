@@ -1,12 +1,14 @@
-# **📊 HR Attrition Analysis** 
+# 📊**HR Attrition Analysis** 
 
-**🔍Overview:**
+🔍**Overview:**
 
-This project presents an interactive HR Analytics Dashboard designed to visualize employee data and provide insights into workforce distribution, performance, and key HR metrics.
+An interactive HR Analytics Dashboard built to analyze employee data and generate actionable insights for HR decision-making.
+
+It helps in understanding workforce distribution, employee performance, salary structure, and organizational trends.
 
 ----
 
-**🚀 Features:**
+🚀**Key Features:**
 - Employee Overview: Total employees, gender distribution
 - Skills Breakdown: Analysis of key employee skills (Communication, Design, Excel, Python, etc.)
 - Department Filters: Dynamic filtering by departments (HR, IT, Finance, Marketing)
@@ -19,32 +21,33 @@ This project presents an interactive HR Analytics Dashboard designed to visualiz
 
 ----
 
-**🛠️ Tools Used:**
+🛠️**Tools Used:**
 - Excel / Power BI (for dashboard creation & visualization)
 - Data cleaning and transformation using Excel functions & PivotTables
 
 ----
 
-**📊 Dashboard Preview:**
+📊**Dashboard Preview:**
 
 [![Watch the demo](HR-Dashboard.png)](https://github.com/user-attachments/assets/e3727211-7d05-490f-9b34-3a8410e6aac6)
 
 ----
 
-**📈 Key Insights:**
-- Balanced gender distribution (~52% male, 48% female)
-- Majority employees fall in the 26–35 age group
-- Highest workforce located in the Central region
-- Communication and Design are the most prominent skills
+📈**Key Insights:**
+- 👥 Balanced gender distribution (~52% male, 48% female)
+- 📈 Majority employees fall in the 26–35 age group
+- 🌍 Highest workforce located in the Central region
+- 💡 Communication and Design are the most prominent skills
+- ⭐ Average performance rating: 2.6
 
 ----
 
-**📂 Dataset:**
+📂**Dataset:**
 
 The dataset includes employee details such as:
 
 - Department
-- Job role
+- Department and Job role
 - Salary
 - Age
 - Region
@@ -53,6 +56,22 @@ The dataset includes employee details such as:
 
 ----
 
-**🎯 Purpose:**
+🎯**Purpose:**
 
 To help HR teams make data-driven decisions in areas like hiring, performance evaluation, and workforce planning.
+
+----
+
+🚀**How to Use:**
+1. Download the Excel file
+2. Open in Microsoft Excel (Desktop recommended)
+3. Use slicers to filter by department or gender
+4. Explore KPIs and charts for actionable insights
+
+----
+
+👩‍💻**Author:**
+Priyanshu Tiwari
+Excel | SQL | Python | Power BI
+
+⭐ If you found this project valuable, consider starring the repository.
