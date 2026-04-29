@@ -1,12 +1,12 @@
 # **📊 HR Attrition Analysis** 
 
-##**🔍Overview:**
+**🔍Overview:**
 
 This project presents an interactive HR Analytics Dashboard designed to visualize employee data and provide insights into workforce distribution, performance, and key HR metrics.
 
 ----
 
-##**🚀 Features:**
+**🚀 Features:**
 - Employee Overview: Total employees, gender distribution
 - Skills Breakdown: Analysis of key employee skills (Communication, Design, Excel, Python, etc.)
 - Department Filters: Dynamic filtering by departments (HR, IT, Finance, Marketing)
@@ -19,20 +19,20 @@ This project presents an interactive HR Analytics Dashboard designed to visualiz
 
 ----
 
-##🛠️ Tools Used:**
+**🛠️ Tools Used:**
 - Excel / Power BI (for dashboard creation & visualization)
 - Data cleaning and transformation using Excel functions & PivotTables
 
 ----
 
-## **📊 Dashboard Preview:**
+**📊 Dashboard Preview:**
 
 ![Dashboard Overview](Dashboard.png)
 
 
 ----
 
-##**📈 Key Insights:**
+**📈 Key Insights:**
 - Balanced gender distribution (~52% male, 48% female)
 - Majority employees fall in the 26–35 age group
 - Highest workforce located in the Central region
@@ -40,7 +40,7 @@ This project presents an interactive HR Analytics Dashboard designed to visualiz
 
 ----
 
-##**📂 Dataset:**
+**📂 Dataset:**
 
 The dataset includes employee details such as:
 
@@ -54,6 +54,6 @@ The dataset includes employee details such as:
 
 ----
 
-##**🎯 Purpose:**
+**🎯 Purpose:**
 
 To help HR teams make data-driven decisions in areas like hiring, performance evaluation, and workforce planning.
