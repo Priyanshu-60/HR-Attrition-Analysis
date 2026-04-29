@@ -26,7 +26,8 @@ This project presents an interactive HR Analytics Dashboard designed to visualiz
 ----
 
 **📊 Dashboard Preview:**
-[![Watch the demo](dashboard-demo.mp4)](https://github.com/user-attachments/assets/e3727211-7d05-490f-9b34-3a8410e6aac6)
+
+[![Watch the demo](HR-Dashboard.png)](https://github.com/user-attachments/assets/e3727211-7d05-490f-9b34-3a8410e6aac6)
 
 ----
 
